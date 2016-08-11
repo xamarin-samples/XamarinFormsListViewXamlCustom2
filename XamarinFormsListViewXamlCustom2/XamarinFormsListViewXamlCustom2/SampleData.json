@@ -1,0 +1,16 @@
+﻿{
+	"Page1.xaml": [
+		{
+			"Name": "X",
+			"Score": 100
+		},
+		{
+			"Name": "YY",
+			"Score": 10
+		},
+		{
+			"Name": "Z",
+			"Score": 500
+		}
+	]
+}
